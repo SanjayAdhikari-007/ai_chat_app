@@ -1,16 +1,11 @@
-# ai_chat_app
+# AI Chat App
 
-A new Flutter project.
+AI Chat App made with Flutter
 
-## Getting Started
+Packages used:
 
-This project is a starting point for a Flutter application.
+- google_generative_ai
 
-A few resources to get you started if this is your first Flutter project:
+ Uses Gemini 1.5 flash
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
